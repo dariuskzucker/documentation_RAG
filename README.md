@@ -1,2 +1,2 @@
 # documentation_RAG
-Applies RAG to LLM to find correct package/library syntax based on documentation.
+Applies RAG for LLM to answer questions regarding correct package/library syntax, based on documentation.
