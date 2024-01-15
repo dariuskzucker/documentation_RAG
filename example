@@ -102,7 +102,7 @@
     "import getpass\n",
     "import os\n",
     "\n",
-    "os.environ[\"OPENAI_API_KEY\"] = \"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\""
+    "os.environ[\"OPENAI_API_KEY\"] = \"your openai_api key here\""
    ]
   },
   {
