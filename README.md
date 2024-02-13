@@ -1,6 +1,6 @@
-### Quick example to show RAG used for LLM to answer questions regarding your package/library, based on documentation.
+### RAG used for LLM to answer questions regarding your package/library, based on documentation.
 
-### This example answers questions regarding the syntax of [dataspace](https://pypi.org/project/dataspace/).
+### This LLM will now effectively answer questions regarding the syntax of [dataspace](https://pypi.org/project/dataspace/).
 
 
 
